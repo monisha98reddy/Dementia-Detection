@@ -1,5 +1,5 @@
 # Dementia-Detection
-<img width="608" alt="Screenshot 2021-09-28 at 1 22 41 PM" src="https://user-images.githubusercontent.com/63378154/135046285-70fbc101-127c-44e0-80d1-873c6e922622.png">
+<img width="1000" alt="Screenshot 2021-09-28 at 1 22 41 PM" src="https://user-images.githubusercontent.com/63378154/135046285-70fbc101-127c-44e0-80d1-873c6e922622.png">
 
 
 
